@@ -1,0 +1,26 @@
+.main{
+display: flex;
+justify-content: space-around;
+}
+.logo{
+    width: 150px;
+}
+.test{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ml-0.text-xl{
+    font-family: 'Times New Roman', Times, serif;
+}
+.work{
+    background-color: 	#ffb6c1;
+}
+.service{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
